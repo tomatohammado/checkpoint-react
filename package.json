@@ -7,7 +7,7 @@
     "react-dom": "^16.2.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.0.17"
+    "react-scripts": "^2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +16,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "enzyme": "^3.2.0",
+    "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.1.0",
     "jest-enzyme": "^4.0.1",
     "react-test-renderer": "^16.2.0"
